@@ -1,2 +1,2 @@
 # Kakao-clone
- Practice with NomadCoder
+Kakao Desktop App Clone
